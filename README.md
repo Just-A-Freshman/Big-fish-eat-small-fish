@@ -3,4 +3,6 @@
 ![image-202411081257](ui/mainGame.png)
 
 ## The provide setting:
-[!image-202411081258](ui/SettingUI.png)
+![image-202411081258](ui/SettingUI.png)
+
+
